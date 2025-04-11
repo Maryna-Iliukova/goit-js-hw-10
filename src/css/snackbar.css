@@ -45,14 +45,15 @@ button:hover {
 }
 legend {
     text-align: start;
-    margin-left: 16px;
+    margin-left: 28px;
 }
 fieldset {
     border-radius: 4px;
         stroke-width: 1px;
         stroke: #808080;
-        width: 362px;
+        width: 360px;
         height: 66px;
+        padding: 0;
 }
 fieldset:hover, fieldset:active {
     stroke: #000;
